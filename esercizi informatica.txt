@@ -1,0 +1,36 @@
+1) Creare una cartella CompitiC nel proprio pc con all'interno una cartella per esercizio.
+2) Creare nel vostro profilo GitHub un repository chiamato EserciziNatale.
+3) Scrivere i programmi e salvarli ognuno della rispettiva cartella.
+4) Inserire nel repository EserciziNatale la cartella CompitiC con gli esercizi fatti.
+
+
+
+ESERCIZIO 1 (if)
+Si realizzi un programma che acquisisca due numeri da tastiera (A e B) e:
+-stampi un messaggio che indichi se il numero A è positivo o negativo
+-un messaggio che indichi se il numero B è pari o dispari
+-la somma di A e B,
+-la somma dei valori assoluti di A e B.
+
+
+ESERCIZIO 2 (switch e funzioni)
+Si realizzi un programma che si comporti come una calcolatrice.
+Scelta l'operazione (+,-,x,:, potenza, radice) e inseriti i due numeri,
+stampi il risultato.
+
+
+ESERCIZIO 3 (while e funzione)
+Si realizzi un programma che acquisisca un numero intero positivo e ne stampi
+il suo fattoriale (è il prodotto di tutti i numeri da 1 al numero scelto).
+
+
+ESERCIZIO 4 (for e funzioni)
+Scelto dall'utente la lunghezza della sequenza da inserire (massimo 30), far inserire i numeri
+in un vettore e:
+-visualizzare il vettore
+-eseguire lo spostamento (shift) a sinistra di una posizione
+	(es 1 10 15 18 diventa 10 15 18 0)
+-visualizzare il vettore
+- eseguire lo spostamento (shift) a destra di una posizione
+	(es 10 15 18 0 diventa 0 10 15 18)
+-visualizzare il vettore
